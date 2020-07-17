@@ -151,6 +151,5 @@ if (baseHP1 == 999){ //define 999,888, wp2vswp2
 	label:
 
 	display(fOut);
-
 	return 0;
 }
